@@ -14,9 +14,9 @@ Ubi-Canvas supports converting between game modes only because it was implemente
 ## Current status
 - Rayman Legends (PC): viewing & editing
 - Rayman Adventures (Android), Rayman Mini (MacOS): viewing
-- Rayman Legends (PS Vita): limited viewing
-- Rayman Origins (PC), Rayman Jungle Run (Android & iOS), Rayman Fiesta Run (Android & iOS): very limited viewing
-- Child of Light (PC): very limited viewing
+- Rayman Legends (PS Vita):  viewing
+- Rayman Origins (PC), Rayman Jungle Run (Android & iOS), Rayman Fiesta Run (Android & iOS): viewing
+- Child of Light (PC):  viewing
 
 ## How to use
 1. Download and install Unity 2022.3.7
